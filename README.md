@@ -1,2 +1,2 @@
-# dotfiles
-My Tablet Preferences for my Wacom CTL-471
+# Dotfiles
+This is a collection for all of my configuration files.
